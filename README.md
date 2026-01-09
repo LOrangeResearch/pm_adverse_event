@@ -196,5 +196,9 @@ python event_detection.py --file pm_local.csv --time-col local_time --pm-col pm2
 - Interactive plotting requires a GUI-capable Python environment.
 - For headless systems, omit `--show-plot`.
 
+<<<<<<< HEAD
+---
+=======
 ---
 
+>>>>>>> 5ff783681e59558bfdc35e461190cc2080565324
